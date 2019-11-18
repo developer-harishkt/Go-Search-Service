@@ -8,5 +8,5 @@ Features:
 
 Bug Resolution:
 
-    - If there is any problem with the goquery package. Kindly download the same by:
+    - If there is any problem with the goquery package. Kindly download the package using the following command:
         - go get -u github.com/PuerkitoBio/goquery
