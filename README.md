@@ -4,13 +4,13 @@ An Search Service implemented using Go Lang.
 Execution:
 
 - go run hk-search-service.go -h : To know about the input parameters to CLI
-- go run hk-search-service.go -query="<your search query>" : To test the service.
+- go run hk-search-service.go -query="{your search query}" : To test the service.
 
 Execution (Directly from EXEC - only for mac users):
 
 - change the permission for the executable to work (it was built on macOS Mojave Version:10.14.6)
 - ./hk-search-service -h : To know about the input parameters to CLI
-- ./hk-search-service -query="<your search query>" : To test the service.
+- ./hk-search-service -query="{your search query}" : To test the service.
 
 Features:
 
